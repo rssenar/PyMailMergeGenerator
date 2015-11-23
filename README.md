@@ -1,3 +1,4 @@
 # PyMailMergeGenerator
 
-This program takes in a .csv input file then parseses it based on Crrt information and quantities per route.
+The program imports a .csv input file containing the following fields:
+City, State, Zip, Crrt, RouteCount, Bundle, BundlePerRoute, LastBundle, SeqNum, FinalBundles, Count

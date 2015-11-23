@@ -7,11 +7,11 @@ import csv
 # Global Variables
 # ---------------------------------------------
 CSVFilesHaveHeaderRow = True # True or False if input files include a header row
-InputFile = "Dec 2015 for Richard.csv"
+InputFile = "Inout.csv"
 OutputFile = "_MMOutput.csv" 
 RouteCount = 4 
 Bundle = 5
-BundlePerRoute = 6 
+BundlePerRoute = 6
 LastBundle = 7 
 SeqNum = 8 
 UpdatedBundles = 9 
